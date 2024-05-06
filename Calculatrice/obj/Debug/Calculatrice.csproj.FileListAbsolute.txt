@@ -1,0 +1,9 @@
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\MADUA\Desktop\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
